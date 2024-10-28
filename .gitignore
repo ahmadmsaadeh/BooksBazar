@@ -1,0 +1,15 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore .idea folder (IDE settings)
+.idea/
+
+# Ignore any logs
+*.log
+
+# Ignore the bin and coverage folder
+bin/
+coverage/
+
+# Ignore environment variables
+.env
